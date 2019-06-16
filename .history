@@ -1,0 +1,56 @@
+: 1560573920:0;clear
+: 1560573920:0;msfconsole
+: 1560574499:0;ssh -R 15424:localhost:15424
+: 1560574506:0;ssh -R 15424:localhost:15424 serveo.net
+: 1560574591:0;la
+: 1560575170:0;ssh -R 15424:localhost:15424 serveo.net
+: 1560575191:0;msfconsole
+: 1560575404:0;ssh -R 15424:localhost:15424 serveo.net
+: 1560576013:0;clear
+: 1560576013:0;tshark --help
+: 1560576023:0;exit
+: 1560576038:0;clear
+: 1560576038:0;dig -h
+: 1560576057:0;dig buyayahya.org
+: 1560576090:0;ssh -R 15424:localhost:15424 serveo.net
+: 1560576103:0;msfconsole
+: 1560577791:0;ssh -R 15424:localhost:15424 serveo.net
+: 1560578836:0;clear
+: 1560578836:0;msfconsole
+: 1560578852:0;ssh -R 15424:localhost:15424 serveo.net
+: 1560579743:0;ssh -R 15424:localhost:4500 serveo.net
+: 1560614767:0;php
+: 1560664472:0;git
+: 1560664478:0;git status
+: 1560664606:0;ls
+: 1560664610:0;cd zsh
+: 1560664611:0;ls
+: 1560664625:0;git init
+: 1560664706:0;git remote add origin https://github.com/penteseter123/wawan.git
+: 1560664738:0;git push -u origin
+: 1560664743:0;got 
+: 1560664780:0;git commit -m "bang_wawan"
+: 1560664815:0;git config --global 
+: 1560664817:0;git inot
+: 1560664821:0;git init
+: 1560664839:0;git add README.me
+: 1560664852:0;git add README.md
+: 1560664895:0;git commit -m "jdhfh"
+: 1560664939:0;git config --global user.email "kalipentest296@gmail.com"
+: 1560664992:0;git config --global user.name "pentester123"
+: 1560664996:0;git commit -m "jdhfh"
+: 1560665008:0;git remote add origin https://github.com/penteseter123/wawan.git
+: 1560665017:0;git push -u origin
+: 1560665066:0;git push -u origin master
+: 1560665133:0;git commit -m "baru"
+: 1560665147:0;git remote add origin https://github.com/penteseter123/wawan.git
+: 1560665175:0;git push -u origin master
+: 1560665180:0;git push -u origin baru
+: 1560665191:0;git -helo
+: 1560665194:0;git -help
+: 1560665200:0;git help
+: 1560665204:0;fit
+: 1560665208:0;git
+: 1560665220:0;git statua
+: 1560665223:0;git status
+: 1560665239:0;git add .
