@@ -54,3 +54,8 @@
 : 1560665220:0;git statua
 : 1560665223:0;git status
 : 1560665239:0;git add .
+: 1560665259:0;git commit -m "baru"
+: 1560665269:0;git remote add origin https://github.com/penteseter123/wawan.git
+: 1560665277:0;git remote add origin https://github.com/penteseter123/wawan.git.
+: 1560665285:0;git push -u origin baru
+: 1560665318:0;git add .
